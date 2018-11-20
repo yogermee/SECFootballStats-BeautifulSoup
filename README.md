@@ -24,7 +24,7 @@ A Python 2.7, BeautifulSoup4-based web scraper that I wrote to extract all data 
 13) Enter your machine's password
 14) Type `CREATE DATABASE secstats`
 15) Type `USE DATABASE secstats`
-16) Copy/paste the entire text block below (**again, this is the aspect of code that needs refactoring...there are much cleaner and more Pythonoic ways of doing this**)
+16) Copy/paste the entire text block below (**again, this is the aspect of code that needs refactoring...there are certainly much cleaner and more Pythonoic ways of doing this...I'll update the code and README accordingly in the future**)
 
 ```
 CREATE TABLE roster (Season int, Team varchar(255), No varchar(255), Name varchar(255), Pos varchar(255), Yr varchar(255), Ht int, Wt int, Hometown varchar(255), Last_School varchar(255));
