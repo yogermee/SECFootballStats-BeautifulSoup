@@ -22,8 +22,8 @@ A Python 2.7, BeautifulSoup4-based web scraper that I wrote to extract all data 
 11) Type `/usr/local/mysql/bin/mysql -u root -p`
 12) Press enter/return
 13) Enter your machine's password
-14) Type `CREATE DATABASE secstats`
-15) Type `USE DATABASE secstats`
+14) Type `CREATE DATABASE secstats;`
+15) Type `USE DATABASE secstats;`
 16) Copy/paste the entire text block below (**again, this is the aspect of code that needs refactoring...there are certainly much cleaner and more Pythonoic ways of doing this...I'll update the code and README accordingly in the future**)
 
 ```
