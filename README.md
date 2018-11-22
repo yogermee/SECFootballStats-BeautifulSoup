@@ -1,5 +1,5 @@
 # ModernSECFootballStats-BeautifulSoup
-A Python 2.7, BeautifulSoup4-based web scraper that I wrote to extract all data from CFBStats.com for the "Modern" SEC (South Eastern Conference) Football era, from 2012 - 2017, and to post all of that back into a SQL database for basic data analysis and visualizations. **This code does still needs some refactoring** (particularly in how database tables are created) as it was written purely as a one-time utility, but it works as-is following the instructions below.
+A Python 2.7, BeautifulSoup4-based web scraper that I wrote to extract all data from CFBStats.com for the "Modern" SEC (South Eastern Conference) Football era, from 2012 - 2017, and to post all of that back into a SQL database for basic data analysis and visualizations. **This code does still need some refactoring** (particularly in how database tables are created) as it was written purely as a one-time utility, but it works as-is following the instructions below.
 
 ## How to Use This Web Scraper (Mac OS)
 
